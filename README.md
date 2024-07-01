@@ -9,7 +9,7 @@ My journey in Cybersecurity lead to a passion for security, specifically aiming 
 ## Skill
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Setting up Active Directory and Implementing New Users w/Powershell| <a href="https://google.com">Active Directory Home Lab</a>|
+| Setting up Active Directory and Implementing New Users w/Powershell| <a href="[https://google.com](https://github.com/Alvin-Liew/Active-Directory-Home-Lab/blob/main/README.md)">Active Directory Home Lab</a>|
 
 
 ## Tools
