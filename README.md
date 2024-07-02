@@ -31,3 +31,5 @@ My journey in Cybersecurity lead to a passion for security, specifically aiming 
 
 ## Projects
 - <a href="https://github.com/Alvin-Liew/Active-Directory-Home-Lab">Active Directory Home Lab</a>
+- <a href="https://github.com/Alvin-Liew/EDR-Home-Lab-Attack-and-Defense">EDR Home Lab: Attack and Defense</a>
+
