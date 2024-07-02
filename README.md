@@ -10,6 +10,7 @@ My journey in Cybersecurity lead to a passion for security, specifically aiming 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Setting up Active Directory and Implementing New Users w/Powershell| <a href="https://github.com/Alvin-Liew/Active-Directory-Home-Lab">Active Directory Home Lab</a>|
+| Simulated a Real-World Cyber Attack and Endpoint Detection Response| <a href="https://github.com/Alvin-Liew/Active-Directory-Home-Lab">EDR Home Lab: Attack and Defense</a>|
 
 
 ## Tools
@@ -23,8 +24,6 @@ My journey in Cybersecurity lead to a passion for security, specifically aiming 
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-</div>
 
 ## Certifications
 <div>
