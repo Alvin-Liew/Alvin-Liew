@@ -10,7 +10,7 @@ My journey in Cybersecurity lead to a passion for security, specifically aiming 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Setting up Active Directory and Implementing New Users w/Powershell| <a href="https://github.com/Alvin-Liew/Active-Directory-Home-Lab">Active Directory Home Lab</a>|
-| Simulated a Real-World Cyber Attack and Endpoint Detection Response| <a href="https://github.com/Alvin-Liew/Active-Directory-Home-Lab">EDR Home Lab: Attack and Defense</a>|
+| Simulated a Real-World Cyber Attack and Endpoint Detection Response| <a href="https://github.com/Alvin-Liew/EDR-Home-Lab-Attack-and-Defense/tree/main">EDR Home Lab: Attack and Defense</a>|
 
 
 ## Tools
@@ -20,8 +20,7 @@ My journey in Cybersecurity lead to a passion for security, specifically aiming 
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
 
-
-### SIEM
+### EDR
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 
