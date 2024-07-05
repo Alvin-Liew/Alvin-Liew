@@ -9,9 +9,10 @@ My journey in Cybersecurity lead to a passion for security, specifically aiming 
 ## Skill
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Setting up Active Directory and Implementing New Users w/Powershell| <a href="https://github.com/Alvin-Liew/Active-Directory-Home-Lab">Active Directory Home Lab</a>|
-| Simulating and Detecting Brute Force Attacks with a SIEM| <a href="https://github.com/Alvin-Liew/Splunk-Detection-Lab">Splunk Detection Lab</a>|
 | Simulated a Real-World Cyber Attack and Endpoint Detection Response| <a href="https://github.com/Alvin-Liew/EDR-Home-Lab-Attack-and-Defense">EDR Home Lab: Attack and Defense</a>|
+| Simulating and Detecting Brute Force Attacks with a SIEM| <a href="https://github.com/Alvin-Liew/Splunk-Detection-Lab">Splunk Detection Lab</a>|
+| Setting up Active Directory and Implementing New Users w/Powershell| <a href="https://github.com/Alvin-Liew/Active-Directory-Home-Lab">Active Directory Home Lab</a>|
+
 
 ## Tools
 
@@ -25,7 +26,8 @@ My journey in Cybersecurity lead to a passion for security, specifically aiming 
 
 
 ## Projects
-- <a href="https://github.com/Alvin-Liew/Active-Directory-Home-Lab">Active Directory Home Lab</a>
-- <a href="https://github.com/Alvin-Liew/Splunk-Detection-Lab">Splunk Detection Lab</a>
 - <a href="https://github.com/Alvin-Liew/EDR-Home-Lab-Attack-and-Defense">EDR Home Lab: Attack and Defense</a>
+- <a href="https://github.com/Alvin-Liew/Splunk-Detection-Lab">Splunk Detection Lab</a>
+- <a href="https://github.com/Alvin-Liew/Active-Directory-Home-Lab">Active Directory Home Lab</a>
+
 
